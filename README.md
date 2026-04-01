@@ -9,4 +9,4 @@ Versão do meu portfólio feita em React, onde estou praticando componentizaçã
 - CSS
 
 ## Objetivo
-Projeto desenvolvido para praticar desenvolvimento front-end e evolução na área de programação web.
+Projeto desenvolvido para praticar de aprendizado das aulas de programação web.
